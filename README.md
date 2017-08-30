@@ -1,4 +1,6 @@
 # telegraf-calendar-telegram
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fgitadept%2Ftelegraf-calendar-telegram.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fgitadept%2Ftelegraf-calendar-telegram?ref=badge_shield)
+
 Inline calendar for Telegram bots using Telegraf framework.
 You can test it using this [bot](t.me/CalendarTelegrafBot.).
 
@@ -76,3 +78,7 @@ Example
 -----------
 
 You can find [here](./bot/index.js) the code for a working [bot](t.me/CalendarTelegrafBot.).
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fgitadept%2Ftelegraf-calendar-telegram.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2Fgitadept%2Ftelegraf-calendar-telegram?ref=badge_large)
